@@ -1,0 +1,13 @@
+====== payload start ======
+{TickerText=✨ TRY portrait mode NOW!, Msg=Have you tried Portrait Mode? Check out our new user-friendly interface for editing vertical videos 😎, Nid=1652493606828600000, iid=APP220504-0010_others, Link=pdr://click_home_page, Title=✨ TRY portrait mode NOW!, image=https://app-content.cyberlink.com/event/customize/APP220504-0009/129d3693-9515-4f72-a355-b022593e0efd.jpg, buttonlist=[], NoticeId=10567765}
+====== payload end ======
+isValid Message
+Setting Show Notification
+====== openConnection ======
+====== connect ======
+IOException Unable to resolve host "app-content.cyberlink.com": No address associated with hostname
+openConnection
+decodeStreamBitmap Exception: null
+bitmap == null
+setContentIntent
+notify !!
